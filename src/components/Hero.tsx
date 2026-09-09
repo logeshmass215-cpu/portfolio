@@ -9,7 +9,7 @@ import {
   Grid
 } from 'lucide-react';
 import { HERO_DATA, CLIENT_LOGOS } from '../data/portfolioData';
-import logeshImg from '../../assets/.aistudio/LOGESH.png';
+import logeshImg from '../assets/LOGESH.png';
 
 interface HeroProps {
   onOpenShowreel: () => void;

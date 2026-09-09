@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'motion/react';
 import { Calendar, Code, Smile, Trophy } from 'lucide-react';
-import logeshImg from '../../assets/.aistudio/LOGESH.png';
+import logeshImg from '../assets/LOGESH.png';
 
 export const About: React.FC = () => {
   return (
