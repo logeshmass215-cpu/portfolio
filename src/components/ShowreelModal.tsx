@@ -15,7 +15,7 @@ export const ShowreelModal: React.FC<ShowreelModalProps> = ({ isOpen, onClose })
   const [isMuted, setIsMuted] = useState(false);
   const [activeChapter, setActiveChapter] = useState('01. Porsche GT3 RS');
 
-  const showreelUrl = "/assets/.aistudio/CHIN_Jathi in Kriti_V2.mp4";
+  const showreelUrl = "/assets/videos/CHIN-Jathi-in-Kriti-V2.mp4";
 
   const chapters = [
     { title: "01. Porsche GT3 RS", timestamp: "00:00", category: "Automotive" },
